@@ -1,0 +1,130 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f0f2f5;
+}
+#facebook {
+    font-size: 26px;
+    font-family: arial, sans-serif;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f0f2f5;
+}
+.main {
+    display: flex;
+}
+
+#facebook {
+    margin: -26px;
+    margin-left: -45px;
+}
+#img {
+    margin-left: -45px;
+}
+
+.left {
+    width: 500px;
+
+}
+.right {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.right form {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.right input {
+    width: 100%;
+    padding: 14px;
+    margin-bottom: 12px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+#enter {
+    width: 100%;
+    padding: 14px;
+    background: #1877f2;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.forgot {
+    display: block;
+    text-align: center;
+    margin: 12px 0;
+    color: #1877f2;
+    text-decoration: none;
+    font-size: 15px;
+}
+.newacc {
+    margin: 16px auto 0;
+    padding: 12px 16px;
+    background: #42b72a;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    display: block;
+}
+
+.divider {
+    height: 1px;
+    background: #ddd;
+    margin: 20px 0;
+}
+
+
+
+.main {
+    display: flex;
+    gap: 80px;
+}
+
+.text {
+    max-width: 380px;
+    text-align: center;
+}
+
+.text {
+    max-width: 600px;
+    text-align: center;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+
+
+@media (max-width: 1000px) {
+    .main {
+        flex-direction: column;
+        gap: 40px;
+    }
+    .left,
+    .right {
+        width: 100%;
+        text-align: center;
+    }
+    #facebook {
+        margin: 0;
+    }
+}
