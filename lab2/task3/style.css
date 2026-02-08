@@ -10,7 +10,6 @@ body {
     color: #1f2328;
 }
 
-/* ---------- TOP ---------- */
 
 .top {
     text-align: center;
@@ -39,7 +38,6 @@ body {
     cursor: pointer;
 }
 
-/* ---------- PRICING ---------- */
 
 .pricing {
     display: flex;
@@ -124,7 +122,6 @@ ul li {
     color: #24292f;
 }
 
-/* ---------- FEATURED CARD ---------- */
 
 .featured {
     border: 2px solid #0969da;
@@ -143,7 +140,6 @@ ul li {
     border-radius: 12px;
 }
 
-/* ---------- RESPONSIVE ---------- */
 
 @media (max-width: 900px) {
     .pricing {
