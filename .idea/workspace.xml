@@ -2,31 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d92defd7-0c78-42d3-bf5d-2cb7ab51d4d1" name="Changes" comment="asdafasdasd">
-      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson1.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson10.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson11.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson12.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson13.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson14.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson15.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson16.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson17.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson18.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson19.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson2.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson20.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson22.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson23.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson24.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson25.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson3.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson4.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson5.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson6.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson7.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson8.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson9.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/task2/online-store/src/app/models/product.model.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +88,7 @@
       <workItem from="1770621572316" duration="1239000" />
       <workItem from="1770631669139" duration="1122000" />
       <workItem from="1771232313331" duration="3757000" />
-      <workItem from="1771238109691" duration="5952000" />
+      <workItem from="1771238109691" duration="7227000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -179,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770542367514</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="asdafasdasd">
+      <option name="closed" value="true" />
+      <created>1771234083604</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1771234083604</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
