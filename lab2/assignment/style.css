@@ -1,0 +1,100 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f0f2f5;
+}
+
+.main {
+    background: white;
+    width: 440px;
+    height: 620px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    margin-top: 20px;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.text {
+    color: limegreen;
+    font-size: 34px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    margin-bottom: -4px;
+    margin-top: 15px;
+}
+
+#second {
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    margin-bottom: -4px;
+
+}
+#third {
+    font-size: 15px;
+    color: #8b8b8f;
+    font-family: Arial, sans-serif;
+
+}
+
+form {
+    margin-left: -150px;
+    border-radius: 8px;
+}
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 0px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+#fr {
+    color: #969698;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    margin-top: 10px;
+}
+
+#checkbox {
+    height: 16px;
+    margin-left: -110px;
+    margin-right: -110px;
+    margin-top: 18px;
+}
+#box {
+    color: limegreen;
+}
+.login {
+    margin-top: 16px;
+    font-size: 14px;
+    text-align: center;
+    color: #6a6a6a;
+}
+.login a {
+    color: #1db954;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.sign {
+    width: 100%;
+    height: 48px;
+    background: #1db954;
+    color: white;
+    border: none;
+    border-radius: 999px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    margin-top: 19px;
+}
+
