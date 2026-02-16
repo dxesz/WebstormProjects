@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d92defd7-0c78-42d3-bf5d-2cb7ab51d4d1" name="Changes" comment="asdafasdasd" />
+    <list default="true" id="d92defd7-0c78-42d3-bf5d-2cb7ab51d4d1" name="Changes" comment="asdafasdasd">
+      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson10.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson11.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson12.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson13.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson14.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson15.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson16.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson17.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson18.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson19.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson20.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson22.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson23.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson24.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson25.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson3.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson4.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson5.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson6.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson7.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson8.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/task1/tutorial/src/app/lesson9.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/task2/online-store/src/app/models/product.model.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,28 +57,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.index.html.html.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;disable.download.node.interpreter.editor.notification&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.index.html.html.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "disable.download.node.interpreter.editor.notification": "true",
+    "git-widget-placeholder": "master",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "C:/Users/User/WebstormProjects/lab4/public",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.sync",
+    "ts.external.directory.path": "C:\\Users\\User\\WebstormProjects\\lab4\\task1\\tutorial\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\lab4\public" />
       <recent name="C:\Users\User\WebstormProjects\lab3\task2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\lab4\task2\online-store\src\app" />
+      <recent name="C:\Users\User\WebstormProjects\lab4\task2\online-store\src\app\models" />
+      <recent name="C:\Users\User\WebstormProjects\lab4\task1\tutorial\src\app" />
       <recent name="C:\Users\User\WebstormProjects\lab3\task1" />
     </key>
   </component>
@@ -79,6 +112,8 @@
       <workItem from="1770030760634" duration="5058000" />
       <workItem from="1770621572316" duration="1239000" />
       <workItem from="1770631669139" duration="1122000" />
+      <workItem from="1771232313331" duration="3757000" />
+      <workItem from="1771238109691" duration="5952000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -136,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770552039305</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="asdafasdasd">
+      <option name="closed" value="true" />
+      <created>1770542367514</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1770542367514</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
